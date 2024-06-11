@@ -1,3 +1,5 @@
+import EventSection from "./components/EventSection"
+import Team from "./Team"
 import Feedback from "./components/Feedback"
 import Contact from "./Contact"
 import Footer from "./components/Footer"
@@ -16,6 +18,7 @@ function App() {
     <Footer/>
     <Hero />
     <Footer/>
+    <EventSection/>
     <Feedback/>
     <Contact/>
     <Omooro/>
