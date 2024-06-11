@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-    <Header/>
+      <Header/>
     <Mentor />
     <Footer/>
     <Hero />
